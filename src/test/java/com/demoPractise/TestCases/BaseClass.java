@@ -9,8 +9,8 @@ import org.testng.annotations.BeforeClass;
 public class BaseClass {
 	
 	public String url ="https://login.yahoo.com/?.src=ym&pspid=159600001&activity=mail-direct&.lang=en-US&.intl=us&.done=https%3A%2F%2Fmail.yahoo.com%2Fd";
-	public String username = "pranoop_kumar";
-	public String password ="Yandapatel1986!";
+	public String username = "test.kaplan";
+	public String password ="abcefgh";
 	public static WebDriver driver;
 	
 	@BeforeClass
